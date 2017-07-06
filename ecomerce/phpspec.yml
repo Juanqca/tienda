@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: mercado
+        psr4_prefix: mercado
+        src_path: app
